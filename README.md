@@ -1,2 +1,2 @@
 # pemesanan
-sistem informasi pemesanan meal and snack
+sistem informasi pemesanan meal and snack framework Laravel
